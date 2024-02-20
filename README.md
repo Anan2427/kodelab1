@@ -1,0 +1,2 @@
+# kodelab1
+PERKENALAN
